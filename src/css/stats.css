@@ -1,0 +1,8 @@
+.stats {
+  height: 250px;
+}
+
+.stats p {
+  line-height: 10px;
+  float: left;
+}
